@@ -1,1 +1,1 @@
-1st java lines of code by devA
+1st java lines of codes by developerA
